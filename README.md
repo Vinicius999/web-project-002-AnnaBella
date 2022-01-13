@@ -1,4 +1,3 @@
 ## Projeto Anna Bella
 
-Segundo projeto desenvolvido no decorrer do curso **Desenvolvimento Web Completo** ministrado pelo professor **Jamilton Damasceno**.
-
+O presente projeto buscou desenvolver um site simples para uma modelo fictícia chamada de Anna Bella.
