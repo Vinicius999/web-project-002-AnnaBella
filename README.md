@@ -12,7 +12,7 @@ O projeto é composto por 4 páginas, sendo elas:
 
 - Home
 - Biografia
-- Campanhas publucitárias
+- Campanhas publicitárias
 - Contato
 
 
